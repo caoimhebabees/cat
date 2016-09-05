@@ -1,0 +1,18 @@
+
+
+body{
+
+	background: url('img/pink_rice.png');
+}
+
+#about_text{
+
+	color:#940681;
+	font-family: tahoma;
+	font-size: 18px;
+}
+
+a:hover{
+
+	color:#940681;
+}
